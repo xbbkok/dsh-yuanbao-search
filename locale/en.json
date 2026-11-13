@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "title": "Yuanbao Search",
+    "description": "Uses so.qq.com Yuanbao AI search in a Harness main panel: search, citations and chat all stay in the panel instead of opening a browser."
+  },
+  "panelLabel": "Yuanbao Search",
+  "searchPlaceholder": "Ask Yuanbao AI search, then press Enter",
+  "search": "Search",
+  "home": "Home",
+  "reload": "Reload",
+  "external": "Open in browser",
+  "hint": "Answers are produced inside the panel; sign-in, history and chats stay on the Yuanbao site and the Harness stores no account details.",
+  "blocked": "Yuanbao Search did not load in the panel. The site may block embedding or the network may be down; try Open in browser."
+}
